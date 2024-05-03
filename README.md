@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=stefantosev&show_icons=true&locale=en&layout=compact&theme=ambient_gradient" alt="stefantosev" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=stefantosev&show_icons=true&locale=en&layout=compact&theme=jolly" alt="stefantosev" />
   <img src="https://github-readme-stats.vercel.app/api?username=stefantosev&show_icons=true&locale=en&theme=ambient_gradient" alt="stefantosev" height="165"/>
 </p>
 

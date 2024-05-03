@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=stefantosev&theme=ambient_gradient" alt="stefantosev" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=stefantosev&theme=synthwave" alt="stefantosev" />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

@@ -1,15 +1,12 @@
 
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=stefantosev&label=Profile%20views&color=0e75b6&style=flat" alt="stefantosev" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=stefantosev&show_icons=true&locale=en&layout=compact&theme=ambient_gradient" alt="stefantosev" />
+  <img src="https://github-readme-stats.vercel.app/api?username=stefantosev&show_icons=true&locale=en&theme=ambient_gradient" alt="stefantosev" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=stefantosev&show_icons=true&locale=en&layout=compact&theme=dark" alt="stefantosev" />
-  <img src="https://github-readme-stats.vercel.app/api?username=stefantosev&show_icons=true&locale=en&theme=dark" alt="stefantosev" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=stefantosev&theme=dark" alt="stefantosev" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=stefantosev&theme=ambient_gradient" alt="stefantosev" />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

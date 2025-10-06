@@ -1,13 +1,13 @@
 
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=stefantosev&show_icons=true&locale=en&layout=compact&theme=jolly" alt="stefantosev" />
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=stefantosev&show_icons=true&locale=en&theme=ambient_gradient" alt="stefantosev" height="165"/> -->
-</p>
+<!-- </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=stefantosev&theme=synthwave" alt="stefantosev" />
-</p>
+</p> --> 
 
 
 <h3 align="left">Languages and Tools:</h3>
